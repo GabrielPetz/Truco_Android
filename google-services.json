@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "460314536052",
+    "firebase_url": "https://truco-f455f.firebaseio.com",
+    "project_id": "truco-f455f",
+    "storage_bucket": "truco-f455f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460314536052:android:aef508a1a55216a2",
+        "android_client_info": {
+          "package_name": "codelabs.com.br.truco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460314536052-ompm5pdtrggbqdo5bvnmsngrrvolkn1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "codelabs.com.br.truco",
+            "certificate_hash": "294094ffdacc7e175b6ba93d68ac5dd4427e516b"
+          }
+        },
+        {
+          "client_id": "460314536052-0916negbu3ihumn9imkd2s02u0oobkfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65s7usJcxZkrO5n9BhzKKT6q-LsbUNe4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460314536052-0916negbu3ihumn9imkd2s02u0oobkfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
